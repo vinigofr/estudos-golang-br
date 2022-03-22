@@ -45,4 +45,4 @@ Conteúdos em Inglês
 ## Conteúdo Interativo
 
 - Go track no [Exercism](https://exercism.org/tracks/go/concepts)
-- Curso bśsico de  GO [Learn Go Codecademy](https://www.codecademy.com/learn/learn-go)
+- Curso básico de  GO [Learn Go Codecademy](https://www.codecademy.com/learn/learn-go)
