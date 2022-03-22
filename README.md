@@ -38,7 +38,7 @@ Conteúdos em Inglês
 
 - Documentação [A Tour of Go](https://go.dev/tour/list)
 
-- Livro [Go by examples]([https://gobyexample.com/](https://gobyexample.com/)
+- Livro [Go by examples](https://gobyexample.com/)
 
 - [Go Web Examples](https://gowebexamples.com/)
 
