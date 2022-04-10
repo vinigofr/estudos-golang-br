@@ -20,7 +20,7 @@ Conteúdos em Portugês (BR)
 
 ## Entusiastas de Golang
 
--- Blog [Elton Minetto](https://eltonminetto.dev/)
+- Blog [Elton Minetto](https://eltonminetto.dev/)
 
 Conteúdos em Inglês
 
