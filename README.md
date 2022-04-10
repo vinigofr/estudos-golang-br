@@ -16,11 +16,11 @@ Conteúdos em Portugês (BR)
 
 - Curso [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes/)
 
----
-
 ## Entusiastas de Golang
 
 - Blog [Elton Minetto](https://eltonminetto.dev/)
+
+---
 
 Conteúdos em Inglês
 
